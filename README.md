@@ -25,8 +25,8 @@ Sitio web basico de ejemplo para practicar HTML, CSS y JS, el sitio conciste en 
 
 - Las interacciones con la API y el renderizado de los datos son gestionados con JavaScript asincrónico, asegurando una experiencia fluida al cambiar de Pokémon.
 ## Demo
-
-(link)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9869cf3-f0d7-4a7b-b7dd-ebdbb9087ae3/deploy-status)](https://app.netlify.com/sites/pokedex-poke-api/deploys)
+https://pokedex-poke-api.netlify.app/
 
 [![Pagina-principal-pokedex.png](https://i.postimg.cc/NG97R5QN/Pagina-principal-pokedex.png)](https://postimg.cc/rzTrky0W)
 
